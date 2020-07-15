@@ -11,5 +11,5 @@ This application don't have any database connected to store your tasks. It store
 
 -> You need to have Node.js installed on your system.
 
-You can use it for your own purpose and you can take any functionality from it.
+You can use it for your own purpose and you can take any functionality from it. 
 
